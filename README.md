@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes YouTube trending data to uncover patterns in video performance and engagement.
 
-## Case Study Phases
+## Project Phases
 - Ask → [View](docs/ask.md)
 - Prepare → [View](docs/prepare.md)
 - Process → 

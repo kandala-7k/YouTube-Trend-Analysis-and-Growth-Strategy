@@ -1,7 +1,7 @@
 # PREPARE Phase
 
 ## Data Source
-Dataset: YouTube Trending Dataset (Updated Daily) 
+Dataset: YouTube Trending Dataset (Updated Daily)  
 Source: Kaggle
 
 ## Data Description

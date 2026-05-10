@@ -6,8 +6,8 @@ This project analyzes YouTube trending data to uncover patterns in video perform
 ## Project Phases
 - Ask → [View](docs/ask.md)
 - Prepare → [View](docs/prepare.md)
-- Process → 
-- Analyze → 
+- Process → [View](https://www.kaggle.com/code/kandalavinit/youtube-data-process-and-analysis-phase)
+- Analyze → [View](https://www.kaggle.com/code/kandalavinit/youtube-data-process-and-analysis-phase)
 - Share → 
 - Act → 
 

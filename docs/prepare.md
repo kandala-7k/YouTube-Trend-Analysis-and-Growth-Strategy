@@ -25,6 +25,6 @@ The dataset contains:
 - No direct revenue data
 
 ## Tools Used
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, OS, RegEx)
 - Jupyter Notebook (Kaggle)
 - Tableau for visualization
